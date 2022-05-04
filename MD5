@@ -1,0 +1,13 @@
+f0feaa041f03039f221a98fe6285f62c *DESCRIPTION
+b5aeeb5cef296786b698be67ee715476 *LICENSE
+34cf4ea67d9a98a47c73b8b3c0c1e67b *NAMESPACE
+3be71b6ad6ddbff6f833a2d98d9b3d5c *NEWS.md
+baf614e342a412b62cb6cd554342992e *R/partialised-package.R
+43a43344632432aefa342383afe95e3b *R/partialised.R
+e7caad6939d32778a8dee74180ef8b26 *R/utils.R
+3a395c58d093dccf0d2af11c2c88b511 *README.md
+8cae84842e641d2613048e2f965fd7a2 *man/arguments.Rd
+5b37c4a5f82fcc46e218738d4e04720b *man/extract.Rd
+3145012ebd3c7dfc8f65df3287ca2063 *man/new_partialised.Rd
+6ce50477cd670c5053c70d6858b65b62 *tests/testthat.R
+cc87854f7b63c687af760a396f04a389 *tests/testthat/test-partialised.R
